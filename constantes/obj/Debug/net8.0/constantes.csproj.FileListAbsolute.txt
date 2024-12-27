@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Developer\csharp\constantes\bin\Debug\net8.0\constantes.exe
+C:\Users\marce\Desktop\Developer\csharp\constantes\bin\Debug\net8.0\constantes.deps.json
+C:\Users\marce\Desktop\Developer\csharp\constantes\bin\Debug\net8.0\constantes.runtimeconfig.json
+C:\Users\marce\Desktop\Developer\csharp\constantes\bin\Debug\net8.0\constantes.dll
+C:\Users\marce\Desktop\Developer\csharp\constantes\bin\Debug\net8.0\constantes.pdb
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.AssemblyInfo.cs
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.dll
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\refint\constantes.dll
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.pdb
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\constantes.genruntimeconfig.cache
+C:\Users\marce\Desktop\Developer\csharp\constantes\obj\Debug\net8.0\ref\constantes.dll

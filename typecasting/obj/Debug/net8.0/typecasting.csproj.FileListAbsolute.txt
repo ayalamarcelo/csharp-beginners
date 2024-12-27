@@ -1,0 +1,14 @@
+C:\Users\marce\Desktop\Developer\csharp\typecasting\bin\Debug\net8.0\typecasting.exe
+C:\Users\marce\Desktop\Developer\csharp\typecasting\bin\Debug\net8.0\typecasting.deps.json
+C:\Users\marce\Desktop\Developer\csharp\typecasting\bin\Debug\net8.0\typecasting.runtimeconfig.json
+C:\Users\marce\Desktop\Developer\csharp\typecasting\bin\Debug\net8.0\typecasting.dll
+C:\Users\marce\Desktop\Developer\csharp\typecasting\bin\Debug\net8.0\typecasting.pdb
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfo.cs
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.dll
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\refint\typecasting.dll
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.pdb
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\typecasting.genruntimeconfig.cache
+C:\Users\marce\Desktop\Developer\csharp\typecasting\obj\Debug\net8.0\ref\typecasting.dll
