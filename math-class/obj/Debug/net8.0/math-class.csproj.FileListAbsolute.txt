@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\bin\Debug\net8.0\math-class.exe
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\bin\Debug\net8.0\math-class.deps.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\bin\Debug\net8.0\math-class.runtimeconfig.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\bin\Debug\net8.0\math-class.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\bin\Debug\net8.0\math-class.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.AssemblyInfo.cs
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.sourcelink.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\refint\math-class.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\math-class.genruntimeconfig.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\math-class\obj\Debug\net8.0\ref\math-class.dll

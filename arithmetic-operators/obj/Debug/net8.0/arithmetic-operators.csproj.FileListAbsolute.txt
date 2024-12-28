@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\bin\Debug\net8.0\arithmetic-operators.exe
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\bin\Debug\net8.0\arithmetic-operators.deps.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\bin\Debug\net8.0\arithmetic-operators.runtimeconfig.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\bin\Debug\net8.0\arithmetic-operators.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\bin\Debug\net8.0\arithmetic-operators.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.AssemblyInfo.cs
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.sourcelink.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\refint\arithmetic-operators.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\arithmetic-operators.genruntimeconfig.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\arithmetic-operators\obj\Debug\net8.0\ref\arithmetic-operators.dll

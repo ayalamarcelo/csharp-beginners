@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\bin\Debug\net8.0\user-input.exe
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\bin\Debug\net8.0\user-input.deps.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\bin\Debug\net8.0\user-input.runtimeconfig.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\bin\Debug\net8.0\user-input.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\bin\Debug\net8.0\user-input.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.AssemblyInfo.cs
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.sourcelink.json
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\refint\user-input.dll
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.pdb
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\user-input.genruntimeconfig.cache
+C:\Users\marce\Desktop\Developer\csharp-beginners\user-input\obj\Debug\net8.0\ref\user-input.dll

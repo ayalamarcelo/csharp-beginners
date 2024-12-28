@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
-      "projectName": "arrays",
-      "projectPath": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\math-class\\math-class.csproj",
+      "projectName": "math-class",
+      "projectPath": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\math-class\\math-class.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\arrays\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Desktop\\Developer\\csharp-beginners\\math-class\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
