@@ -1,0 +1,15 @@
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.AssemblyInfo.cs
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.sourcelink.json
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\bin\Debug\net8.0\hypotenuse-calculator.exe
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\bin\Debug\net8.0\hypotenuse-calculator.deps.json
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\bin\Debug\net8.0\hypotenuse-calculator.runtimeconfig.json
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\bin\Debug\net8.0\hypotenuse-calculator.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\bin\Debug\net8.0\hypotenuse-calculator.pdb
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\refint\hypotenuse-calculator.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.pdb
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\hypotenuse-calculator.genruntimeconfig.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\hypotenuse-calculator\obj\Debug\net8.0\ref\hypotenuse-calculator.dll

@@ -9,7 +9,9 @@
         bool alive = !true;
         char symbol = '@';
         string name = "Marcelo";
+        string lastname = "Ayala";
         string username = symbol + name;
+        string email = name + lastname + symbol;
         
         Console.Beep();
         Console.WriteLine("Your age is " + age);
@@ -17,9 +19,9 @@
         Console.WriteLine("Are you alive " + alive);
         Console.WriteLine("Your symbol is: " + symbol);
         Console.WriteLine("Username: " + username);
+        Console.WriteLine("Your email is: " + email + "gmail.com");
         Console.WriteLine(x);
         Console.WriteLine(y);
         Console.WriteLine(z);
-        Console.WriteLine();
     }
 }
