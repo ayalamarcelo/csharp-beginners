@@ -1,0 +1,5 @@
+C:\Users\marce\Desktop\csharp-beginners\insertion-sort\obj\Debug\net8.0\insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\csharp-beginners\insertion-sort\obj\Debug\net8.0\insertion-sort.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\insertion-sort\obj\Debug\net8.0\insertion-sort.AssemblyInfo.cs
+C:\Users\marce\Desktop\csharp-beginners\insertion-sort\obj\Debug\net8.0\insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\insertion-sort\obj\Debug\net8.0\insertion-sort.sourcelink.json

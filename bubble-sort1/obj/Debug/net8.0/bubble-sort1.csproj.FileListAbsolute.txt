@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.AssemblyInfo.cs
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.sourcelink.json
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\bin\Debug\net8.0\bubble-sort1.exe
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\bin\Debug\net8.0\bubble-sort1.deps.json
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\bin\Debug\net8.0\bubble-sort1.runtimeconfig.json
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\bin\Debug\net8.0\bubble-sort1.dll
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\bin\Debug\net8.0\bubble-sort1.pdb
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.dll
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\refint\bubble-sort1.dll
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.pdb
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\bubble-sort1.genruntimeconfig.cache
+C:\Users\marce\Desktop\csharp-beginners\bubble-sort1\obj\Debug\net8.0\ref\bubble-sort1.dll

@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.AssemblyInfo.cs
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.sourcelink.json
+C:\Users\marce\Desktop\csharp-beginners\binary-search\bin\Debug\net8.0\binary-search.exe
+C:\Users\marce\Desktop\csharp-beginners\binary-search\bin\Debug\net8.0\binary-search.deps.json
+C:\Users\marce\Desktop\csharp-beginners\binary-search\bin\Debug\net8.0\binary-search.runtimeconfig.json
+C:\Users\marce\Desktop\csharp-beginners\binary-search\bin\Debug\net8.0\binary-search.dll
+C:\Users\marce\Desktop\csharp-beginners\binary-search\bin\Debug\net8.0\binary-search.pdb
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.dll
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\refint\binary-search.dll
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.pdb
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\binary-search.genruntimeconfig.cache
+C:\Users\marce\Desktop\csharp-beginners\binary-search\obj\Debug\net8.0\ref\binary-search.dll

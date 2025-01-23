@@ -1,0 +1,15 @@
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\bin\Debug\net8.0\string-method.exe
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\bin\Debug\net8.0\string-method.deps.json
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\bin\Debug\net8.0\string-method.runtimeconfig.json
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\bin\Debug\net8.0\string-method.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\bin\Debug\net8.0\string-method.pdb
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.AssemblyInfoInputs.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.AssemblyInfo.cs
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.csproj.CoreCompileInputs.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.sourcelink.json
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\refint\string-method.dll
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.pdb
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\string-method.genruntimeconfig.cache
+C:\Users\marce\Documents\Developer\csharp-beginners\string-method\obj\Debug\net8.0\ref\string-method.dll

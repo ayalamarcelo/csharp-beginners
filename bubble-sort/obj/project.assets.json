@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Desktop\\csharp-beginners\\arrays\\arrays.csproj",
-      "projectName": "arrays",
-      "projectPath": "C:\\Users\\marce\\Desktop\\csharp-beginners\\arrays\\arrays.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Desktop\\csharp-beginners\\binary-search\\binary-search.csproj",
+      "projectName": "binary-search",
+      "projectPath": "C:\\Users\\marce\\Desktop\\csharp-beginners\\binary-search\\binary-search.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Desktop\\csharp-beginners\\arrays\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Desktop\\csharp-beginners\\binary-search\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
