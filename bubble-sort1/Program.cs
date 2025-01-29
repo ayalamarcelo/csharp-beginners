@@ -5,6 +5,15 @@
             Console.Write(numbers[i] + ", ");
         }
     }
+
+    public static int Secuential(int[] array, int x) {
+        for(int i = 0; i < array.Length; i++) {
+            if(array[i] == x) {
+                return i;
+            }
+        }
+        return -1;
+    }
     public static void Main(string[] args) {
         // Bubble sort
 
@@ -26,5 +35,7 @@
         }
         
         Show(numbers);
+        Console.WriteLine("");
+        Console.WriteLine($"El número está en la pos: {Secuential(numbers, 23)}");
     }
 }
