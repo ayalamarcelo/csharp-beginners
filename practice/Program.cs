@@ -32,7 +32,7 @@
                 Console.Write(", ");
             }
         }
-        Console.WriteLine();
+        Console.WriteLine()
     }
     public static void Main(string[] args) {
         int[] numbers = new int[6];

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\lists\\lists.csproj": {}
+    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\lists\\lists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\lists\\lists.csproj": {
+    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\lists\\lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\lists\\lists.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\lists\\lists.csproj",
         "projectName": "lists",
-        "projectPath": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\lists\\lists.csproj",
+        "projectPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\lists\\lists.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\lists\\obj\\",
+        "outputPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\lists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
