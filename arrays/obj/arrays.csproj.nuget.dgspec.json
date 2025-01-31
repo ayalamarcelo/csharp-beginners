@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj": {}
+    "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\arrays\\arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj": {
+    "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\arrays\\arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\arrays\\arrays.csproj",
         "projectName": "arrays",
-        "projectPath": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
+        "projectPath": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\arrays\\arrays.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\documents\\Developer\\csharp-beginners\\arrays\\obj\\",
+        "outputPath": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"

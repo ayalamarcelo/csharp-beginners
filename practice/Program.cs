@@ -1,50 +1,24 @@
-﻿class Program {
-    public static int sequential(int[] array, int number) {
-        for(int i = 0; i < array.Length; i++) {
-            if(array[i] == number) {
-                return i;
-            }
-        }
-        return -1;
-    }
+﻿class Program
+{
+    public static void Main(string[] args)
+    {
 
-    public static void bubbleSort(int[] numbers) {
-        bool flag;
+        Console.WriteLine("Extensión de su array: ");
+        string extInput = Console.ReadLine(); // Lee la entrada del usuario como string
+        int ext = int.Parse(extInput); // Convierte la entrada a entero
 
-        for(int i = 0; i < numbers.Length; i++) {
-            flag = false;
-            for(int j = 0; j < numbers.Length -i - 1; j++) {
-                if(numbers[j] > numbers[j + 1]) {
-                    int aux = numbers[j];
-                    numbers[j] = numbers[j + 1];
-                    numbers[j + 1] = aux;
-                    flag = true;
-                }
-            }
-            if(!flag) break;
-        }
-    }
+        string[] array = new string[ext]; // Crea un array de strings de tamaño 'ext'
 
-    public static void Show(int[] numbers) {
-        for(int i = 0; i < numbers.Length; i++) {
-            Console.Write(numbers[i]);
-            if( i < numbers.Length -1) {
-                Console.Write(", ");
-            }
+        for (int i = 0; i < ext; i++)
+        {
+            Console.WriteLine($"Ingrese el valor para el índice {i}:");
+            array[i] = Console.ReadLine(); // Lee cada valor de tipo string y lo guarda en el array
         }
-        Console.WriteLine()
-    }
-    public static void Main(string[] args) {
-        int[] numbers = new int[6];
-        numbers[0] = 34;
-        numbers[1] = 14;
-        numbers[2] = 2;
-        numbers[3] = 90;
-        numbers[4] = 10;
-        numbers[5] = 5; 
-        
-        bubbleSort(numbers);
-        Show(numbers);
-        Console.WriteLine(sequential(numbers, 10));
+
+        Console.WriteLine("Contenido del array:");
+        for (int i = 0; i < array.Length; i++)
+        {
+            Console.WriteLine($"Índice {i}: {array[i]}"); // Muestra cada valor del array
+        }
     }
 }
