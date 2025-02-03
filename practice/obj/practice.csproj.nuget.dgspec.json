@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice\\practice.csproj": {}
+    "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\practice\\practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice\\practice.csproj": {
+    "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\practice\\practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice\\practice.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\practice\\practice.csproj",
         "projectName": "practice",
-        "projectPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice\\practice.csproj",
+        "projectPath": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\practice\\practice.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice\\obj\\",
+        "outputPath": "C:\\Users\\marce\\documents\\developer\\csharp-beginners\\practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
