@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj": {}
+    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice-3\\practice-3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj": {
+    "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice-3\\practice-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
-        "projectName": "arrays",
-        "projectPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\arrays\\arrays.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice-3\\practice-3.csproj",
+        "projectName": "practice-3",
+        "projectPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice-3\\practice-3.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\arrays\\obj\\",
+        "outputPath": "C:\\Users\\marce\\Documents\\Developer\\csharp-beginners\\practice-3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config"
