@@ -34,8 +34,25 @@
 
     // Algoritmos de ordenamiento
 
+    public static void bubbleSort(int[] numbers) {
+        bool flag = false;
+        for(int i = 0; i < numbers.Length && flag; i++) {
+            flag = false;
+            for(int j = 0; j < numbers.Length - i - 1; j++) {
+                if(numbers[j] > numbers[j + 1]) {
+                    int aux = numbers[j];
+                    numbers[j] = numbers[j + 1];
+                    numbers[j + 1] = aux;
+                    flag = true;
+                }
+            }
+            if(!flag) break;
+        }
+    }
+
     static void Main(string[] args) {
         int[] temperatura = new int[6] {23, 34, 53, 3, 1, 3};
+        bubbleSort(temperatura);
 
         /*for(int i = 0; i < 6; i++) {
             Console.WriteLine($"Introduzca el valor {i} del array");
@@ -46,6 +63,6 @@
             Console.WriteLine(temperatura[i]);
         }
 
-        Console.WriteLine($"Se encuentra en la posición: {busquedaSecuencial(temperatura, 1)}");
+        Console.WriteLine($"Se encuentra en la posición: {busquedaSecuencial(temperatura, 53)}");
     }
 }
