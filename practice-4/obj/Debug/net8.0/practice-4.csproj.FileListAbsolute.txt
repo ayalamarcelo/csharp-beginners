@@ -1,0 +1,15 @@
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\bin\Debug\net8.0\practice-4.exe
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\bin\Debug\net8.0\practice-4.deps.json
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\bin\Debug\net8.0\practice-4.runtimeconfig.json
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\bin\Debug\net8.0\practice-4.dll
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\bin\Debug\net8.0\practice-4.pdb
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.AssemblyInfoInputs.cache
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.AssemblyInfo.cs
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.csproj.CoreCompileInputs.cache
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.sourcelink.json
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.dll
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\refint\practice-4.dll
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.pdb
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\practice-4.genruntimeconfig.cache
+C:\Users\marce\documents\developer\csharp-beginners\practice-4\obj\Debug\net8.0\ref\practice-4.dll
