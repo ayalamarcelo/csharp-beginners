@@ -21,6 +21,19 @@
     informar 'Venderor inexistente'.
     Función 6: Implementar el algoritmo de búsqueda ELEMENTAL para ser utilizado en función 5.
     */
+    public struct Empleado {
+        public int legajo;
+        public string apellido;
+        public string nombre;
+        public string categoria;
+        public float ventas;
+    }
     public static void Main(string[] args) {
+        // Array de vendedores
+        int cant;
+        Console.WriteLine("Ingrese la cantidad de vendedores: ");
+        cant = int.Parse(Console.ReadLine());
+        Empleado[] vendedores = new Empleado[cant];
+        
     }
 }
