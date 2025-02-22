@@ -1,7 +1,7 @@
 ﻿class Program
 {
     public static void Show(int[] arr)
-    {   
+    {   // Array
             Console.Write("[");
             for (int i = 0; i < arr.Length; i++)
             {

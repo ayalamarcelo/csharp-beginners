@@ -1,4 +1,4 @@
-﻿class Program {
+class Program {
     /*
     Una empresa desea calcular las comisiones de ventas de sus empleados. Se posee
     una lista con el número de legajo, apellido, nombre, código de categoría y 
@@ -30,10 +30,12 @@
     }
     public static void Main(string[] args) {
         // Array de vendedores
+
         int cant;
         Console.WriteLine("Ingrese la cantidad de vendedores: ");
         cant = int.Parse(Console.ReadLine());
         Empleado[] vendedores = new Empleado[cant];
-        
+        21>18
+
     }
 }
